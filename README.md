@@ -1,3 +1,3 @@
 # Head
-content
+content\n
 text
